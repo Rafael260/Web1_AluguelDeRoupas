@@ -1,0 +1,11 @@
+.bloco-exemplo {
+    padding: 20px;
+    font-size: 25px;
+    min-height: 100px;
+    background: orange;
+    margin-bottom: 10px;
+}
+
+.bloco-exemplo.bg2{
+        background: #abb1b8;
+}
