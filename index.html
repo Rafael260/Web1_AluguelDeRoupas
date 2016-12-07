@@ -12,32 +12,95 @@
 
 </head>
 <body>
-     <div class="container">
+	<div class="bloco-exemplo">Sonho meu</div>
+    <div class="container">
         <div class="row">
-            <div class="col-lg-12">
-                <div class="bloco-exemplo">Sonho meu</div>
+        	<div class="col-lg-12">
+               <nav class="navbar navbar-default">
+               		<div class="container">
+               		<ul class="nav navbar-nav">
+               			<li><a href="#">Vestidos</a></li>
+               			<li><a href="#">Ternos</a></li>
+               			<li><a href="#">Ocasiões</a></li>
+               			<li><a href="#">Como funciona</a></li>
+               		</ul>
+               		<!--<form class="navbar-form navbar-form navbar-right" role="search">
+        				<div class="form-group">
+          					<input type="text" class="form-control" placeholder="search">
+        				</div>
+        				<button type="submit" class="btn btn-default">Submit</button>
+      				</form> -->
+               		</div>
+               </nav>
             </div>
+
         </div>
         <div class="row">
-        	<div class="col-lg-2"></div>
-            <div class="col-lg-8">
-                <div class="bloco-menu">
-	                <ul class="list-inline list-group">
-	                	<li class="list-group-item">Vestidos</li>
-	                	<li class="list-group-item">Ternos</li>
-	                	<li class="list-group-item">Ocasiões</li>
-	                	<li class="list-group-item">Como funciona</li>
-	                </ul>
+        	<div class="col-lg-3"></div>
+        	<div class="col-lg-6">
+        		<div class="bloco-form">
+        			<form>
+        				<h3>Alugue sua roupa</h3>
+        				<div class="form-group">
+        					<div class='input-group date' id='datetimepicker1'>
+                    			<input type='text' class="form-control" />
+                    			<span class="input-group-addon">
+                        		<span class="glyphicon glyphicon-calendar"></span>
+                    			</span>
+                			</div>
+                			<label for="spCategoria">Categoria</label>
+    						<select class="form-control" name="categoria" id="spCategoria">
+    							<option value="Vestidos">Vestidos</option>
+    							<option value="Ternos">Ternos</option>
+    							<option value="Fantasias">Fantasias</option>
+  							</select>
+  							<label for="spTamanho">Tamanho</label>
+    						<select class="form-control" name="tamanho" id="spTamanho">
+    							<option value="34">34</option>
+    							<option value="36">36</option>
+    							<option value="38">38</option>
+    							<option value="40">40</option>
+    							<option value="42">42</option>
+    							<option value="44">44</option>
+    							<option value="46">46</option>
+  							</select>
+        				</div>
+        			</form>
+        		</div>
+        	</div>
+        	<div class="col-lg-3"></div>
+        </div>
+        <footer>
+        <div class="navbar navbar-inverse navbar-fixed-bottom">
+            <div class="container">
+                <div class="navbar-collapse collapse" id="footer-body">
+                    <ul class="nav navbar-nav">
+                        <li><a href="#">Conheça nossa loja</a></li>
+                        <li><a href="#">Como comprar</a></li>
+                        <li><a href="#">Segurança e privacidade</a></li>
+                        <li><a href="#">Contato</a></li>
+                        <li><a href="#">Guia de medidas</a></li>
+                        <li><a href="#">FAQ</a></li>
+                    </ul>
                 </div>
+              	<div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#footer-body">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <ul class="footer-bar-btns visible-xs">
+                        <li><a href="#" class="btn" title="History"><i class="fa fa-2x fa-clock-o blue-text"></i></a></li>
+                        <li><a href="#" class="btn" title="Favourites"><i class="fa fa-2x fa-star yellow-text"></i></a></li>
+                        <li><a href="#" class="btn" title="Subscriptions"><i class="fa fa-2x fa-rss-square orange-text"></i></a></li>
+                    </ul>
+                </div>
+    
             </div>
-            <div class="col-lg-2"></div>
         </div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="rodape">Contato</div>
-            </div>
-        </div>
-    </div>
 
+	</footer>
+	</div>
 
-</body></html>
+</body>
+</html>
