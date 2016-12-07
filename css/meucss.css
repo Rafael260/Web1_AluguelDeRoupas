@@ -2,10 +2,26 @@
     padding: 20px;
     font-size: 25px;
     min-height: 100px;
-    background: orange;
     margin-bottom: 10px;
+    background-color: blue;
 }
 
 .bloco-exemplo.bg2{
         background: #abb1b8;
+}
+
+.bloco-menu{
+	padding: 20px;
+    font-size: 20px;
+    min-height: 100px;
+    margin-bottom: 10px;
+	background-color: green;
+}
+
+.rodape {
+    padding: 10px;
+    font-size: 16px;
+    min-height: 100px;
+    margin-bottom: 10px;
+    background-color: blue;
 }
