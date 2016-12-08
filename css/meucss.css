@@ -11,3 +11,12 @@
 	min-height: 200px;
 	background-color: #cfffff;
 }
+
+.carrossel{
+	width: 60%;
+	height: 60%;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
