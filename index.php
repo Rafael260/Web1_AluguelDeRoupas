@@ -12,36 +12,15 @@
 
 </head>
 <body>
-    <div class="container">
-        <div class="row">
-          <div class="col-lg-12">
-            <img src="images/header.jpg" class="img-responsive" />  
-          </div>
-          
-        </div>
-        <div class="row">
-        	<div class="col-lg-12">
-               <nav class="navbar navbar-default">
-               		<div class="container">
-               		<ul class="nav navbar-nav">
-               			<li><a href="#">Vestidos</a></li>
-               			<li><a href="#">Ternos</a></li>
-               			<li><a href="#">Ocasiões</a></li>
-               			<li><a href="#">Como funciona</a></li>
-               		</ul>
-               		<!--<form class="navbar-form navbar-form navbar-right" role="search">
-        				<div class="form-group">
-          					<input type="text" class="form-control" placeholder="search">
-        				</div>
-        				<button type="submit" class="btn btn-default">Submit</button>
-      				</form> -->
-               		</div>
-               </nav>
-            </div>
+  <div class="container">
+  <div class="header">
+    
+    <?php
+      include_once("header.php");
+    ?>  
+  </div>
 
-        </div>
-
-         <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
             <!-- Indicators -->
             <ol class="carousel-indicators">
               <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -111,6 +90,8 @@
     							<option value="44">44</option>
     							<option value="46">46</option>
   							</select>
+  							<br/>
+  							<button type="submit" class="btn btn-default btn-block"> Buscar roupas</button>
         				</div>
         			</form>
         		</div>
@@ -118,35 +99,11 @@
         	<div class="col-lg-3"></div>
         </div>
         <br/>
-        <footer>
-        <div class="navbar navbar-inverse">
-            <div class="container">
-                <div class="navbar-collapse collapse" id="footer-body">
-                    <ul class="nav navbar-nav">
-                        <li><a href="#">Conheça nossa loja</a></li>
-                        <li><a href="#">Como comprar</a></li>
-                        <li><a href="#">Segurança e privacidade</a></li>
-                        <li><a href="#">Contato</a></li>
-                        <li><a href="#">Guia de medidas</a></li>
-                        <li><a href="#">FAQ</a></li>
-                    </ul>
-                </div>
-              	<div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#footer-body">
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <ul class="footer-bar-btns visible-xs">
-                        <li><a href="#" class="btn" title="History"><i class="fa fa-2x fa-clock-o blue-text"></i></a></li>
-                        <li><a href="#" class="btn" title="Favourites"><i class="fa fa-2x fa-star yellow-text"></i></a></li>
-                        <li><a href="#" class="btn" title="Subscriptions"><i class="fa fa-2x fa-rss-square orange-text"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-	</footer>
-	</div>
+  <?php
+    include_once("footer.php");
+  ?>
+  </div>
+  
 
 </body>
 </html>
