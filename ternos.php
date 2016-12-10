@@ -21,7 +21,7 @@
     </div>
 
       <div class="categoria bg-info text-center">
-        <h3>Vestidos</h3>
+        <h3>Ternos</h3>
       </div>
       <br/>
     
@@ -77,84 +77,59 @@
           <label><input type="checkbox" value="">46</label>
          </div>
 
-         <hr/>
-
-         <p>Comprimento</p>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Longo</label>
-          </div>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Curto</label>
-          </div>
-
-          <hr/>
-
-          <p>Ocasião</p>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Casamento</label>
-          </div>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Casamento diurno</label>
-          </div>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Madinha</label>
-          </div>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Formatura</label>
-          </div>
       </div>
       <!-- apresentacao dos produtos -->
       <div class="col-lg-10">
         <div class="row">
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://www.belasdicas.com/img/fotos/vestidos%20de%20neoprene%206.jpeg"/> <br/>
-            Vestido 1 <br/>
+            <img src="http://www.m1mabis.com.br/lojista/imagens/produtos/ternos_bac5a46b638046abd7f76b054e0a7066.png"/> <br/>
+            Terno 1 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://vestidododia.com.br/wp-content/uploads/2014/12/vestidos-de-formatura-azuis24-200x300.jpg"/> <br/>
-            Vestido 2 <br/>
+            <img src="http://4.bp.blogspot.com/_YGAGFZo-nqk/TFwX_NlR2bI/AAAAAAAAACg/ZR_Q0x-1jLY/s1600/manga.jpg"/> <br/>
+            Terno 2 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4  col-md-4 well item">
-            <img src="http://vestidododia.com.br/wp-content/uploads/2014/07/Vestidos-jardineira-pretos1-200x300.jpg"/> <br/>
-            Vestido 3 <br/>
+            <img src="http://2.bp.blogspot.com/_uuu-6GSmiK0/TMXHEpajWwI/AAAAAAAAAWg/bIwsu8U7H94/s1600/foto-smoking-06.jpg"/> <br/>
+            Terno 3 <br/>
             <a href="#">Alugar</a>
           </div>
         </div>
         
         <div class="row">
           <div class="col-lg-4 col-md-4 well item">
-            <img class="item" src="http://modelosdevestidos.biz/wp-content/uploads/2014/04/vestidos-tubinho-laranja-200x300.jpg"/> <br/>
-            Vestido 4 <br/>
+            <img class="item" src="http://i.ebayimg.com/images/g/8tMAAOSwyjBW6MWM/s-l300.jpg"/> <br/>
+            Terno 4 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://guiadasmulheres.com/blog/wp-content/uploads/2016/06/image002-200x300.jpg"/> <br/>
-            Vestido 5 <br/>
+            <img src="http://www.seuevento.net.br/uploads/noticia/img_890852_20161026tumb.jpeg"/> <br/>
+            Terno 5 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://vestidododia.com.br/wp-content/uploads/2014/06/vestido-de-renda-azul-200x300.jpg"/> <br/>
-            Vestido 6 <br/>
+            <img src="http://lelenavarro.com.br/wp-content/uploads/2014/09/317433e04c7e174039ba6c54654b4c2d-1-199x300.jpg"/> <br/>
+            Terno 6 <br/>
             <a href="#">Alugar</a>
           </div>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-4 well item">
-            <img src="https://s-media-cache-ak0.pinimg.com/564x/91/ff/8d/91ff8d015341dafdae7c3381926298d1.jpg"/> <br/>
-            Vestido 7 <br/>
+            <img src="http://www.universofeminino.info/blog/wp-content/gallery/ternos-calvin-klein/ternos-calvin-klein-9.jpg"/> <br/>
+            Terno 7 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://vestidododia.com.br/wp-content/uploads/2014/11/vestido-de-natal-vermelho-200x300.jpg"/> <br/>
-            Vestido 8 <br/>
+            <img src="http://toquefinalnoivasboc.com.br/images/homens-terno.jpg"/> <br/>
+            Terno 8 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://modelosdevestidos.biz/wp-content/uploads/2014/04/festa-rosa-200x300.jpg"/> <br/>
-            Vestido 9 <br/>
+            <img src="http://www.universofeminino.info/blog/wp-content/gallery/terno-calvin-klein/terno-calvin-klein-14.jpg"/> <br/>
+            Terno 9 <br/>
             <a href="#">Alugar</a>
 
           </div>

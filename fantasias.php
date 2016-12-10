@@ -21,7 +21,7 @@
     </div>
 
       <div class="categoria bg-info text-center">
-        <h3>Vestidos</h3>
+        <h3>Fantasias</h3>
       </div>
       <br/>
     
@@ -54,6 +54,16 @@
       <!--filtro -->
       <div class="col-lg-2 item">
         <h4> Filtros</h4>
+          <p>Sexo</p>
+          <div class="checkbox">
+            <label><input type="checkbox" value="">Feminino</label>
+          </div>
+          <div class="checkbox">
+            <label><input type="checkbox" value="">Masculino</label>
+          </div>
+
+          <hr/>
+
           <p>Tamanhos</p>
           <div class="checkbox">
             <label><input type="checkbox" value="">34</label>
@@ -61,7 +71,7 @@
           <div class="checkbox">
             <label><input type="checkbox" value="">36</label>
           </div>
-         <div class="checkbox">
+         <div class="checkbox disabled">
           <label><input type="checkbox" value="">38</label>
          </div>
          <div class="checkbox">
@@ -79,82 +89,76 @@
 
          <hr/>
 
-         <p>Comprimento</p>
+          <p>Tipo de fantasia</p>
           <div class="checkbox">
-            <label><input type="checkbox" value="">Longo</label>
+            <label><input type="checkbox" value="">Super-heróis</label>
           </div>
           <div class="checkbox">
-            <label><input type="checkbox" value="">Curto</label>
+            <label><input type="checkbox" value="">Vilões</label>
+          </div>
+          <div class="checkbox">
+            <label><input type="checkbox" value="">Halloween</label>
+          </div>
+          <div class="checkbox">
+            <label><input type="checkbox" value="">Carnaval</label>
+          </div>
+          <div class="checkbox">
+            <label><input type="checkbox" value="">São João</label>
           </div>
 
-          <hr/>
-
-          <p>Ocasião</p>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Casamento</label>
-          </div>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Casamento diurno</label>
-          </div>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Madinha</label>
-          </div>
-          <div class="checkbox">
-            <label><input type="checkbox" value="">Formatura</label>
-          </div>
       </div>
       <!-- apresentacao dos produtos -->
       <div class="col-lg-10">
         <div class="row">
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://www.belasdicas.com/img/fotos/vestidos%20de%20neoprene%206.jpeg"/> <br/>
-            Vestido 1 <br/>
+            <img src="http://www.novatango.com.br/wp-content/uploads/2016/08/bruxa_arabela_a-200x300.jpg"/> <br/>
+            Fantasia 1 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://vestidododia.com.br/wp-content/uploads/2014/12/vestidos-de-formatura-azuis24-200x300.jpg"/> <br/>
-            Vestido 2 <br/>
+            <img src="http://www.emdestaquenacidade.com.br/wp-content/uploads/2014/09/bruno.jpg"/> <br/>
+            Fantasia 2 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4  col-md-4 well item">
-            <img src="http://vestidododia.com.br/wp-content/uploads/2014/07/Vestidos-jardineira-pretos1-200x300.jpg"/> <br/>
-            Vestido 3 <br/>
+            <img src="https://alemdatorre.files.wordpress.com/2015/03/1-0-supergirl-alisa-kiss.jpg?w=200&h=300"/> <br/>
+            Fantasia 3 <br/>
             <a href="#">Alugar</a>
           </div>
         </div>
         
         <div class="row">
           <div class="col-lg-4 col-md-4 well item">
-            <img class="item" src="http://modelosdevestidos.biz/wp-content/uploads/2014/04/vestidos-tubinho-laranja-200x300.jpg"/> <br/>
-            Vestido 4 <br/>
+            <img class="item" src="http://festivalfestasefantasias.com.br/wp-content/gallery/masculinas_1/thumbs/thumbs_lanterna-verde.jpg"/> <br/>
+            Fantasia 4 <br/>
+            <a href="#">Alugar</a>
+          </div> 
+          <div class="col-lg-4 col-md-4 well item">
+            <img src="http://festivalfestasefantasias.com.br/wp-content/gallery/masculinas_1/thumbs/thumbs_popeye.jpg"/> <br/>
+            Fantasia 5 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://guiadasmulheres.com/blog/wp-content/uploads/2016/06/image002-200x300.jpg"/> <br/>
-            Vestido 5 <br/>
-            <a href="#">Alugar</a>
-          </div>
-          <div class="col-lg-4 col-md-4 well item">
-            <img src="http://vestidododia.com.br/wp-content/uploads/2014/06/vestido-de-renda-azul-200x300.jpg"/> <br/>
-            Vestido 6 <br/>
+            <img src="http://appsisecommerce.s3.amazonaws.com/clientes/cliente8117/produtos/34838/L01450890782.jpg"/> <br/>
+            Fantasia 6 <br/>
             <a href="#">Alugar</a>
           </div>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-4 well item">
-            <img src="https://s-media-cache-ak0.pinimg.com/564x/91/ff/8d/91ff8d015341dafdae7c3381926298d1.jpg"/> <br/>
-            Vestido 7 <br/>
+            <img src="http://appsisecommerce.s3.amazonaws.com/clientes/cliente6726/produtos/28969/L01450721923.jpg"/> <br/>
+            Fantasia 7 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://vestidododia.com.br/wp-content/uploads/2014/11/vestido-de-natal-vermelho-200x300.jpg"/> <br/>
-            Vestido 8 <br/>
+            <img src="http://statusdiva.com.br/wp-content/uploads/2016/06/9-200x300.jpg"/> <br/>
+            Fantasia 8 <br/>
             <a href="#">Alugar</a>
           </div>
           <div class="col-lg-4 col-md-4 well item">
-            <img src="http://modelosdevestidos.biz/wp-content/uploads/2014/04/festa-rosa-200x300.jpg"/> <br/>
-            Vestido 9 <br/>
+            <img src="http://festivalfestasefantasias.com.br/wp-content/gallery/masculinas_1/thumbs/thumbs_batman_dark_knight.jpg"/> <br/>
+            Fantasia 9 <br/>
             <a href="#">Alugar</a>
 
           </div>

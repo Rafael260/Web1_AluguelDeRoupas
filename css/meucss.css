@@ -1,5 +1,5 @@
 .bloco-exemplo {
-    padding: 20px;
+    padding: 5px;
     font-size: 25px;
     min-height: 100px;
     margin-bottom: 10px;
@@ -18,5 +18,15 @@
 }
 
 .carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.categoria{
+    padding: 20px;
+}
+
+.item{
+    min-height: 280px;
+    /*background-color: #bbbbbb;*/
     margin: 0 auto;
 }
