@@ -20,3 +20,12 @@
 .carousel-inner > .item > img {
     margin: 0 auto;
 }
+#rodape{
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+#rodape li a{
+    color: white;
+}

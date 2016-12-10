@@ -32,19 +32,19 @@
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                  <img src="images/vestido-noiva.jpg" alt="Vestido de noiva">
+                  <img src="images/vestido-noiva1.jpg" alt="Vestido de noiva">
                 </div>
 
                 <div class="item">
-                  <img src="images/vestido.jpg" alt="Vestido">
+                  <img src="images/vestidos.jpg" alt="Vestidos balada">
                 </div>
 
                 <div class="item">
-                  <img src="images/terno.jpg" alt="Terno">
+                  <img src="images/coat.jpg" alt="Terno">
                 </div>
 
                 <div class="item">
-                  <img src="images/fantasia.jpg" alt="Fantasia">
+                  <img src="images/ternos.png" alt="Ternos">
                 </div>
               </div>
               </div>
@@ -60,6 +60,35 @@
             </a>
           </div>
         <br/>
+
+          <div class="container">
+            <div class="row">
+              <h2>Os mais populares da semana</h2>
+            </div>
+            <div class="row">
+              <div class="gallery-holder">
+                <div class="col-md-10">
+                  <div class="carousel slide media-carousel">
+                    <div class="carousel-inner">
+                      <div class="item-active">
+                        <div class="row">
+                          <div class="col-md-4">
+                            <a class="thumbnail" href="#"><img alt="" src="https://s-media-cache-ak0.pinimg.com/736x/bf/ba/6f/bfba6f72b6a36f860e438294d9f06458.jpg"></a>
+                          </div>          
+                          <div class="col-md-4">
+                            <a class="thumbnail" href="#"><img alt="" src="http://appsisecommerce.s3.amazonaws.com/clientes/cliente10159/produtos/9959/Z11450791392.jpg"></a>
+                          </div>
+                          <div class="col-md-4">
+                            <a class="thumbnail" href="#"><img alt="" src="http://www.review-australia.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/R/E/RE15DR125_REMUL001_1.jpg"></a>
+                          </div>        
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
 
         <div class="row">
         	<div class="col-lg-3"></div>
