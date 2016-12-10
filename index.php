@@ -73,13 +73,13 @@
                       <div class="item-active">
                         <div class="row">
                           <div class="col-md-4">
-                            <a class="thumbnail" href="#"><img alt="" src="https://s-media-cache-ak0.pinimg.com/736x/bf/ba/6f/bfba6f72b6a36f860e438294d9f06458.jpg"></a>
+                            <a class="thumbnail" href="vestidoAzul.php"><img alt="" src="https://s-media-cache-ak0.pinimg.com/736x/bf/ba/6f/bfba6f72b6a36f860e438294d9f06458.jpg"></a>
                           </div>          
                           <div class="col-md-4">
-                            <a class="thumbnail" href="#"><img alt="" src="http://appsisecommerce.s3.amazonaws.com/clientes/cliente10159/produtos/9959/Z11450791392.jpg"></a>
+                            <a class="thumbnail" href="ternoPreto.php"><img alt="" src="http://appsisecommerce.s3.amazonaws.com/clientes/cliente10159/produtos/9959/Z11450791392.jpg"></a>
                           </div>
                           <div class="col-md-4">
-                            <a class="thumbnail" href="#"><img alt="" src="http://www.review-australia.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/R/E/RE15DR125_REMUL001_1.jpg"></a>
+                            <a class="thumbnail" href="vestidoFlores.php"><img alt="" src="http://www.review-australia.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/R/E/RE15DR125_REMUL001_1.jpg"></a>
                           </div>        
                         </div>
                       </div>
